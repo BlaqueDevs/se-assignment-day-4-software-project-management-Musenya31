@@ -1,0 +1,92 @@
+1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+Timely delivery ensures client satisfaction, prevents cost overruns, and maintains the project's credibility.
+
+Strategies to meet deadlines:
+
+Clearly define project milestones and allocate resources accordingly.
+
+Use project management tools to track progress.
+
+Mitigate risks with proactive planning.
+
+Communicate effectively with stakeholders and team members.
+
+2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Cost control prevents financial strain and ensures the project's sustainability.
+
+Strategies:
+
+Set a realistic budget with a buffer for unforeseen expenses.
+
+Track expenses in real-time using tools like Jira or Trello.
+
+Prioritize tasks based on value and necessity.
+
+Regularly review financial progress with stakeholders.
+
+3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile:
+
+Advantages: Flexible, promotes collaboration, quick iterations allow for frequent adjustments.
+
+Disadvantages: Can be unpredictable, needs constant client involvement, may lack documentation.
+
+Waterfall:
+
+Advantages: Clear structure, works well for fixed requirements, straightforward to manage.
+
+Disadvantages: Inflexible, harder to adapt to changes, risk of issues being discovered late.
+
+4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile: Best for dynamic projects like mobile app development, where requirements can evolve (e.g., a food delivery app like Uber Eats).
+
+Waterfall: Suitable for projects with fixed requirements, like government systems or banking software (e.g., a payroll system).
+
+5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods:
+
+Perform regular code reviews and pair programming.
+
+Conduct thorough testing: unit tests, integration tests, and user acceptance testing.
+
+Automate repetitive tasks with CI/CD pipelines.
+
+Maintaining high standards reduces bugs, enhances usability, and protects the reputation of your product.
+
+6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+A clear project scope prevents scope creep and ensures all stakeholders share the same vision.
+
+WBS: A hierarchical decomposition of tasks to achieve project objectives.
+
+Benefits: Simplifies planning, improves resource allocation, ensures clear accountability.
+
+7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A detailed schedule aligns teams, sets clear expectations, and tracks progress.
+
+Gantt charts: Visualize timelines, dependencies, and overlapping tasks, helping manage resources efficiently.
+
+8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core issues could include inefficiency, lack of accessibility, or poor user experience.
+
+These problems matter because solving them can save time, reduce costs, or improve users’ lives significantly.
+
+9. How can clearly defining the problem help in developing a more effective software solution?
+A clear problem statement acts as a guiding beacon for development, ensuring the solution targets the root cause effectively.
+
+10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+For example: “Our software simplifies and automates daily task management, freeing users to focus on what truly matters.”
+
+11. What are the main features or functionalities that make your software stand out?
+Features might include:
+
+A clean, intuitive interface.
+
+Seamless integrations with existing tools.
+
+Unique algorithms for personalized recommendations.
+
+12. What data is available regarding the market size and growth potential for your software?
+Conduct market research to gather statistics, trends, and customer demand. For example, the project might address a growing niche market like remote team collaboration tools.
+
+13. How can understanding market trends inform your software’s positioning and development?
+Market trends highlight user preferences, emerging technologies, and competitors’ shortcomings. This insight ensures your software stays competitive and meets market demands.
